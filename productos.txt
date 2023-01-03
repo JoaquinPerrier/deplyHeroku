@@ -1,0 +1,7 @@
+[
+    {"title":"sopa","price":120,"thumbnail":"http://localhost:8080/public/sopa.png","id":1},
+    {"title":"arroz","price":160,"thumbnail":"http://localhost:8080/public/arroz.jpg","id":2},
+    {"title":"maiz","price":445,"thumbnail":"http://localhost:8080/public/maiz.jpg","id":3},
+    {"title":"soda","price":125,"thumbnail":"http://localhost:8080/public/soda.jpg","id":4},
+    {"title":"leche","price":145,"thumbnail":"http://localhost:8080/public/leche.png","id":5}
+]

@@ -1,0 +1,17 @@
+{{> navbar}}
+<br/>
+
+<h1>Formulario de carga de productos</h1>
+
+<form action="/productos" method="post">
+    <input type="text" name="title" id="title" placeholder="Nombre" />
+    <input type="text" name="price" id="price" placeholder="Precio" />
+    <input type="text" name="thumbnail" id="thumbnail" placeholder="Ruta de imagen" />
+    <input type="submit" id="formulario-add" placeholder="Modificar" />
+</form>
+
+
+  <a href="/logout">Salir</a>
+<br/>
+{{> footer}}
+<br/>
